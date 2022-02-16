@@ -1,0 +1,172 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		07F273D627BD6EE80011BF2D /* Descending Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Descending Order.swift"; sourceTree = "<group>"; };
+		07F273D727BD6F3C0011BF2D /* Number of Decimal Digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number of Decimal Digits.swift"; sourceTree = "<group>"; };
+		07F273D827BD6F840011BF2D /* Sum Mixed Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum Mixed Array.swift"; sourceTree = "<group>"; };
+		07F273D927BD6FC90011BF2D /* Sum of positive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of positive.swift"; sourceTree = "<group>"; };
+		07F273DC27BD704F0011BF2D /* Get the mean of an array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get the mean of an array.swift"; sourceTree = "<group>"; };
+		07F273DD27BD70820011BF2D /* Get Planet Name By ID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get Planet Name By ID.swift"; sourceTree = "<group>"; };
+		07F273DE27BD70CE0011BF2D /* Count the Monkeys!.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Count the Monkeys!.swift"; sourceTree = "<group>"; };
+		07F273DF27BD71180011BF2D /* Beginner - Lost Without a Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beginner - Lost Without a Map.swift"; sourceTree = "<group>"; };
+		07F273E027BD715B0011BF2D /* Convert number to reversed array of digits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert number to reversed array of digits.swift"; sourceTree = "<group>"; };
+		07F273E127BD72070011BF2D /* You only need one - Beginner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "You only need one - Beginner.swift"; sourceTree = "<group>"; };
+		07F273E227BD72360011BF2D /* Function 1 - hello world.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Function 1 - hello world.swift"; sourceTree = "<group>"; };
+		07F273E327BD726B0011BF2D /* Opposite number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Opposite number.swift"; sourceTree = "<group>"; };
+		07F273E427BD72B40011BF2D /* Beginner Series #2 Clock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beginner Series #2 Clock.swift"; sourceTree = "<group>"; };
+		07F273E527BD72F00011BF2D /* Century From Year.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Century From Year.swift"; sourceTree = "<group>"; };
+		07F273E627BD731A0011BF2D /* Difference of Volumes of Cuboids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Difference of Volumes of Cuboids.swift"; sourceTree = "<group>"; };
+		07F273E727BD73520011BF2D /* Get Nth Even Number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Get Nth Even Number.swift"; sourceTree = "<group>"; };
+		07F273E827BD73880011BF2D /* Function 3 - multiplying two numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Function 3 - multiplying two numbers.swift"; sourceTree = "<group>"; };
+		07F273E927BD73C20011BF2D /* Is n divisible by x and y?.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Is n divisible by x and y?.swift"; sourceTree = "<group>"; };
+		07F273EA27BD73F60011BF2D /* Switch it Up!.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Switch it Up!.swift"; sourceTree = "<group>"; };
+		07F273EB27BD74270011BF2D /* Grasshopper - Grade book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grasshopper - Grade book.swift"; sourceTree = "<group>"; };
+		07F273EC27BD746F0011BF2D /* Reversed Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed Strings.swift"; sourceTree = "<group>"; };
+		07F273ED27BD749D0011BF2D /* Even or Odd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Even or Odd.swift"; sourceTree = "<group>"; };
+		07F273EE27BD74C60011BF2D /* Calculate BMI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Calculate BMI.swift"; sourceTree = "<group>"; };
+		07F273EF27BD74FB0011BF2D /* Fake Binary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Fake Binary.swift"; sourceTree = "<group>"; };
+		07F273F027BD75340011BF2D /* Convert a Boolean to a String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Convert a Boolean to a String.swift"; sourceTree = "<group>"; };
+		07F273F127BD75670011BF2D /* Sum of integers in string.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sum of integers in string.swift"; sourceTree = "<group>"; };
+		07F273F227BD759A0011BF2D /* Functional Addition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Functional Addition.swift"; sourceTree = "<group>"; };
+		07F273F327BD75C90011BF2D /* Spacify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacify.swift; sourceTree = "<group>"; };
+		07F273F427BD75F60011BF2D /* Mumbling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mumbling.swift; sourceTree = "<group>"; };
+		07F273F527BD76360011BF2D /* Grasshopper - Messi Goals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grasshopper - Messi Goals.swift"; sourceTree = "<group>"; };
+		07F273F627BD76D00011BF2D /* Disemvowel Trolls.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Disemvowel Trolls.swift"; sourceTree = "<group>"; };
+		07F273F727BD77120011BF2D /* Multiplication table for number.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Multiplication table for number.swift"; sourceTree = "<group>"; };
+		07F273F827BD774C0011BF2D /* Square(n) Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Square(n) Sum.swift"; sourceTree = "<group>"; };
+		07F273F927BD77750011BF2D /* Reversed sequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Reversed sequence.swift"; sourceTree = "<group>"; };
+		07F273FA27BD77A00011BF2D /* Beginner - Reduce but Grow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Beginner - Reduce but Grow.swift"; sourceTree = "<group>"; };
+		07F273FB27BD77D10011BF2D /* Transportation on vacation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Transportation on vacation.swift"; sourceTree = "<group>"; };
+		07F273FC27BD78020011BF2D /* Returning Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Returning Strings.swift"; sourceTree = "<group>"; };
+		07F273FD27BD78390011BF2D /* String repeat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String repeat.swift"; sourceTree = "<group>"; };
+		07F273FE27BD786B0011BF2D /* Grasshopper - Summation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Grasshopper - Summation.swift"; sourceTree = "<group>"; };
+		07F273FF27BD78AC0011BF2D /* Enumerable Magic #25 - Take the First N Elements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Enumerable Magic #25 - Take the First N Elements.swift"; sourceTree = "<group>"; };
+		07F2740027BD78D20011BF2D /* Shortest Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Shortest Word.swift"; sourceTree = "<group>"; };
+		07F2740127BD79090011BF2D /* Multiply.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multiply.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		07F273CF27BD6EB30011BF2D = {
+			isa = PBXGroup;
+			children = (
+				07F273DB27BD70030011BF2D /* 7 kyu */,
+				07F273DA27BD6FF30011BF2D /* 8 kyu */,
+			);
+			sourceTree = "<group>";
+		};
+		07F273DA27BD6FF30011BF2D /* 8 kyu */ = {
+			isa = PBXGroup;
+			children = (
+				07F273D927BD6FC90011BF2D /* Sum of positive.swift */,
+				07F273D827BD6F840011BF2D /* Sum Mixed Array.swift */,
+				07F273DC27BD704F0011BF2D /* Get the mean of an array.swift */,
+				07F273DD27BD70820011BF2D /* Get Planet Name By ID.swift */,
+				07F273DE27BD70CE0011BF2D /* Count the Monkeys!.swift */,
+				07F273DF27BD71180011BF2D /* Beginner - Lost Without a Map.swift */,
+				07F273E027BD715B0011BF2D /* Convert number to reversed array of digits.swift */,
+				07F273E127BD72070011BF2D /* You only need one - Beginner.swift */,
+				07F273E227BD72360011BF2D /* Function 1 - hello world.swift */,
+				07F273E327BD726B0011BF2D /* Opposite number.swift */,
+				07F273E427BD72B40011BF2D /* Beginner Series #2 Clock.swift */,
+				07F273E527BD72F00011BF2D /* Century From Year.swift */,
+				07F273E627BD731A0011BF2D /* Difference of Volumes of Cuboids.swift */,
+				07F273E727BD73520011BF2D /* Get Nth Even Number.swift */,
+				07F273E827BD73880011BF2D /* Function 3 - multiplying two numbers.swift */,
+				07F273E927BD73C20011BF2D /* Is n divisible by x and y?.swift */,
+				07F273EA27BD73F60011BF2D /* Switch it Up!.swift */,
+				07F273EB27BD74270011BF2D /* Grasshopper - Grade book.swift */,
+				07F273EC27BD746F0011BF2D /* Reversed Strings.swift */,
+				07F273ED27BD749D0011BF2D /* Even or Odd.swift */,
+				07F273EE27BD74C60011BF2D /* Calculate BMI.swift */,
+				07F273EF27BD74FB0011BF2D /* Fake Binary.swift */,
+				07F273F027BD75340011BF2D /* Convert a Boolean to a String.swift */,
+				07F273F527BD76360011BF2D /* Grasshopper - Messi Goals.swift */,
+				07F273F727BD77120011BF2D /* Multiplication table for number.swift */,
+				07F273F827BD774C0011BF2D /* Square(n) Sum.swift */,
+				07F273F927BD77750011BF2D /* Reversed sequence.swift */,
+				07F273FA27BD77A00011BF2D /* Beginner - Reduce but Grow.swift */,
+				07F273FB27BD77D10011BF2D /* Transportation on vacation.swift */,
+				07F273FC27BD78020011BF2D /* Returning Strings.swift */,
+				07F273FD27BD78390011BF2D /* String repeat.swift */,
+				07F273FE27BD786B0011BF2D /* Grasshopper - Summation.swift */,
+				07F273FF27BD78AC0011BF2D /* Enumerable Magic #25 - Take the First N Elements.swift */,
+				07F2740127BD79090011BF2D /* Multiply.swift */,
+			);
+			path = "8 kyu";
+			sourceTree = "<group>";
+		};
+		07F273DB27BD70030011BF2D /* 7 kyu */ = {
+			isa = PBXGroup;
+			children = (
+				07F273D627BD6EE80011BF2D /* Descending Order.swift */,
+				07F273D727BD6F3C0011BF2D /* Number of Decimal Digits.swift */,
+				07F273F127BD75670011BF2D /* Sum of integers in string.swift */,
+				07F273F227BD759A0011BF2D /* Functional Addition.swift */,
+				07F273F327BD75C90011BF2D /* Spacify.swift */,
+				07F273F427BD75F60011BF2D /* Mumbling.swift */,
+				07F273F627BD76D00011BF2D /* Disemvowel Trolls.swift */,
+				07F2740027BD78D20011BF2D /* Shortest Word.swift */,
+			);
+			path = "7 kyu";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		07F273D027BD6EB30011BF2D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1320;
+			};
+			buildConfigurationList = 07F273D327BD6EB30011BF2D /* Build configuration list for PBXProject "codewars" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 07F273CF27BD6EB30011BF2D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		07F273D427BD6EB30011BF2D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		07F273D527BD6EB30011BF2D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		07F273D327BD6EB30011BF2D /* Build configuration list for PBXProject "codewars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				07F273D427BD6EB30011BF2D /* Debug */,
+				07F273D527BD6EB30011BF2D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 07F273D027BD6EB30011BF2D /* Project object */;
+}
